@@ -1,0 +1,16 @@
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\bin\Debug\net8.0-windows\totitoKeily.exe
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\bin\Debug\net8.0-windows\totitoKeily.deps.json
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\bin\Debug\net8.0-windows\totitoKeily.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\bin\Debug\net8.0-windows\totitoKeily.dll
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\bin\Debug\net8.0-windows\totitoKeily.pdb
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.Form1.resources
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.csproj.GenerateResource.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.dll
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\refint\totitoKeily.dll
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.pdb
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\totitoKeily.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\totitoKeily\obj\Debug\net8.0-windows\ref\totitoKeily.dll

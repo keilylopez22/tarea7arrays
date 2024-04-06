@@ -1,0 +1,14 @@
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\bin\Debug\net8.0\desafio3.exe
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\bin\Debug\net8.0\desafio3.deps.json
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\bin\Debug\net8.0\desafio3.runtimeconfig.json
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\bin\Debug\net8.0\desafio3.dll
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\bin\Debug\net8.0\desafio3.pdb
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.AssemblyInfoInputs.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.AssemblyInfo.cs
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.csproj.CoreCompileInputs.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.dll
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\refint\desafio3.dll
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.pdb
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\desafio3.genruntimeconfig.cache
+C:\Users\keily\OneDrive\Escritorio\tarea 7\desafio3\obj\Debug\net8.0\ref\desafio3.dll
